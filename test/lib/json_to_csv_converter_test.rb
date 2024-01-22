@@ -85,10 +85,6 @@ class JsonToCsvConverterTest < Minitest::Test
 
     private
 
-    def expected_csv
-        File.read('test/files/expected_users.csv')
-    end
-
     def generated_file
         File.read(expected_filename)
     end
@@ -98,6 +94,6 @@ class JsonToCsvConverterTest < Minitest::Test
     end
 
     def expected_filename
-        @expected_filename ||= 'test/files/users.csv'
+        'test/files/users.csv'
     end
 end
