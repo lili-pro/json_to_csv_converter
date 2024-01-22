@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "email": "colleengriffith@quintity.com",
+    "tags": [
+      "consectetur",
+      "quis"
+    ],
+    "profiles": {
+      "facebook": {
+        "id": 0,
+        "picture": "//fbcdn.com/a2244bc1-b10c-4d91-9ce8-184337c6b898.jpg"
+      },
+      "twitter": {
+        "id": 0,
+        "picture": "//twcdn.com/ad9e8cd3-3133-423e-8bbf-0602e4048c22.jpg"
+      }
+    }
+}
